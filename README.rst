@@ -1,26 +1,6 @@
 zmi.styles
 **********
 
-Introduction
-============
-
-This library packages the resources used to style the ZMI with 
-Bootstrap.
-
-It uses the `Font Awesome`_ font for the icons.
-
-.. _`Font Awesome`: https://fontawesome.com
-
-Contents
-========
-
-* Bootstrap CSS and JS
-* FontAwesome
-* jQuery
-* custom CSS and JS for the ZMI
-
-
-Usage
-=====
-
-See http://zope.readthedocs.io/en/latest/ZMI.html
+This package has been included into Zope via
+`PR #307 <https://github.com/zopefoundation/Zope/pull/307>`_.
+It is only kept here for historic reasons.
